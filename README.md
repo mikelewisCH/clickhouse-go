@@ -2,6 +2,13 @@
 
 Golang SQL database client for [ClickHouse](https://clickhouse.com/).
 
+## Prerequisites
+
+A running ClickHouse server, either:
+
+* **ClickHouse Cloud**: [Sign up](https://console.clickhouse.cloud/signUp?utm_medium=referral&utm_source=github&utm_campaign=readme&utm_content=clickhouse-go) for a free trial, or sign in to an existing account.
+* **Self-hosted ClickHouse**: [Install](https://clickhouse.com/docs/get-started/setup/install).
+
 ## Install
 
 ```sh
